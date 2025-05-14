@@ -1,5 +1,5 @@
 # Hi there, Iam Isa 👋
-I'm a passionate web developer with expertise in React, focused on building efficient and user-friendly web applications. I have a strong command of TypeScript and JavaScript, complemented by experience with React for modern web development. My skills include handling REST APIs effectively.
+I'm a passionate web developer with expertise in React for frontend and Nodejs for backend, experience on building efficient and user-friendly web applications in freelance project. I have a strong command of TypeScript and JavaScript, complemented by experience with React for modern web development. My skills include handling REST APIs effectively. 
 
 
 ## 💻 Languages and Tools:
